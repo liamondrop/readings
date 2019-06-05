@@ -1,2 +1,16 @@
-# readings
-In which I collect papers and articles I have/want to read and occasionally record my thoughts
+# Readings
+
+I would like to bring some order to the things I have/want to read. I would also like to jot down some notes about the things I read and refer back to them easily. This seems a good way to accomplish both.
+
+What follows are a list of papers and/or articles about various topics I mean to understand/explore. I will organize the readings by broad topic and the year in which they were published. If the title is linked, it will go to my notes. Otherwise, the title is on my list of things to read.
+
+
+- [Reinforcement Learning](#reinforcement-learning)
+    - [2019 Readings](#2019-rl-readings)
+
+
+# Reinforcement Learning
+
+## 2019 RL Readings
+
+- Diversity is All You Need: Learning Diverse Skills without a Reward Function [arXiv](https://arxiv.org/abs/1802.06070) | [project site](https://sites.google.com/view/diayn/)
