@@ -13,7 +13,7 @@ What follows are a list of papers and/or articles about various topics I mean to
 
 ## 2019 RL Readings
 
-- Diversity is All You Need: Learning Diverse Skills without a Reward Function [arXiv](https://arxiv.org/abs/1802.06070) | [project site](https://sites.google.com/view/diayn/)
-- MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies [arXiv](https://arxiv.org/abs/1905.09808) | [project site](https://xbpeng.github.io/projects/MCP/)
-- Reinforcement Learning, Fast and Slow [cell.com](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)
-- SQIL: Imitation Learning via Regularized Behavioral Cloning [arXiv](https://arxiv.org/abs/1905.11108)
+- Diversity is All You Need: Learning Diverse Skills without a Reward Function [[arXiv](https://arxiv.org/abs/1802.06070)] | [[project site](https://sites.google.com/view/diayn/)]
+- [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://github.com/liamondrop/readings/blob/master/reinforcement-learning/multiplicative-compositional-policies.md) [[arXiv](https://arxiv.org/abs/1905.09808)] | [[project site](https://xbpeng.github.io/projects/MCP/)]
+- Reinforcement Learning, Fast and Slow [[cell.com](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
+- SQIL: Imitation Learning via Regularized Behavioral Cloning [[arXiv](https://arxiv.org/abs/1905.11108)]
