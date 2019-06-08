@@ -23,6 +23,7 @@ What follows are a list of papers and/or articles about various topics I mean to
 ## 2018 RL Readings
 
 - [Learning Robust Rewards With Adversarial Inverse Reinforcement Learning](https://github.com/liamondrop/readings/blob/master/reinforcement-learning/learning-robust-rewards-with-adversarial-inverse-reinforcement-learning.md) [[arXiv](https://arxiv.org/abs/1710.11248)]
+- Soft Actor Critic [[arXiv](https://arxiv.org/abs/1801.01290)] | [[project site](https://sites.google.com/view/soft-actor-critic)]
 
 ## 2016 RL Readings
 
