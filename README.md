@@ -20,7 +20,7 @@ What follows are a list of papers and/or articles about various topics I mean to
 - Reinforcement Learning, Fast and Slow [[cell.com](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
 - SQIL: Imitation Learning via Regularized Behavioral Cloning [[arXiv](https://arxiv.org/abs/1905.11108)]
 
-## 2016 RL Readings
+## 2018 RL Readings
 
 - [Learning Robust Rewards With Adversarial Inverse Reinforcement Learning](https://github.com/liamondrop/readings/blob/master/reinforcement-learning/learning-robust-rewards-with-adversarial-inverse-reinforcement-learning.md) [[arXiv](https://arxiv.org/abs/1710.11248)]
 
