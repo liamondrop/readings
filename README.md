@@ -19,6 +19,7 @@ What follows are a list of papers and/or articles about various topics I mean to
 - [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://github.com/liamondrop/readings/blob/master/reinforcement-learning/multiplicative-compositional-policies.md) [[arXiv](https://arxiv.org/abs/1905.09808)] | [[project site](https://xbpeng.github.io/projects/MCP/)]
 - Reinforcement Learning, Fast and Slow [[cell.com](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
 - SQIL: Imitation Learning via Regularized Behavioral Cloning [[arXiv](https://arxiv.org/abs/1905.11108)]
+- Is Deep Reinforcement Learning Really Superhuman on Atari? [[arXiv](https://arxiv.org/abs/1908.04683v1)] | [[github](https://github.com/valeoai/rainbow-iqn-apex)]
 
 ### 2018 RL Readings
 
