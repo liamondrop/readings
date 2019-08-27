@@ -7,6 +7,7 @@ What follows are a list of papers and/or articles about various topics I mean to
 - [Reinforcement Learning](#reinforcement-learning)
     - [2019 Readings](#2019-rl-readings)
     - [2018 Readings](#2018-rl-readings)
+    - [2017 Readings](#2017-rl-readings)
     - [2016 Readings](#2016-rl-readings)
 
 ## Reinforcement Learning
@@ -25,6 +26,7 @@ What follows are a list of papers and/or articles about various topics I mean to
 - [Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning](https://github.com/liamondrop/readings/blob/master/reinforcement-learning/motion-planning-among-dynamic-decision-making-agents-with-deep-reinforcement-learning.md) [[arXiv](https://arxiv.org/abs/1805.01956)]
 - Socially Aware Motion Planning with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.08862)]
 - Soft Actor Critic [[arXiv](https://arxiv.org/abs/1801.01290)] | [[project site](https://sites.google.com/view/soft-actor-critic)]
+- Multi-task Deep Reinforcement Learning with PopArt [[arXiv](https://arxiv.org/abs/1809.04474)] | [[blog post](https://deepmind.com/blog/article/preserving-outputs-precisely-while-adaptively-rescaling-targets)]
 
 ### 2017 RL Readings
 
@@ -35,3 +37,4 @@ with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1609.07845)]
 ### 2016 RL Readings
 
 - Guided cost learning: Deep inverse optimal control via policy optimization [[arXiv](https://arxiv.org/abs/1603.00448)] | [[youtube](https://www.youtube.com/watch?v=d9DlQSJQAoI)]
+- Learning values across many orders of magnitude [[arXiv](https://arxiv.org/abs/1602.07714)]
